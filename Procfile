@@ -1,1 +1,1 @@
-web: gunicorn run: todolist
+web: gunicorn app:run 
